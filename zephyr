@@ -1,0 +1,116 @@
+{"enabled":false,"key":0,"name":"TestModule","settings":{"Hide in list":{"boolValue":false},"cause":{"numberValue":0.0},"tick":{"numberValue":0.0},"type":{"modeValue":0}}}
+{"enabled":true,"key":0,"name":"GUI","settings":{"Custom logo":{"boolValue":false},"Font":{"modeValue":0},"Hotbar":{"modeValue":0},"Pos anims":{"boolValue":true},"Shadow":{"modeValue":0},"Shortcuts":{"boolValue":false}}}
+{"enabled":true,"key":0,"name":"AntiBot","settings":{"Hide in list":{"boolValue":false},"HitboxCheck":{"boolValue":true},"IDCheck":{"boolValue":true},"Mode":{"modeValue":0},"NameCheck":{"boolValue":true},"SkinCheck":{"boolValue":false},"isCreative":{"boolValue":false},"isImmobile":{"boolValue":true},"isInvisible":{"boolValue":true},"isPlayer":{"boolValue":true}}}
+{"enabled":false,"key":0,"name":"Watermark","settings":{"Hide in list":{"boolValue":false},"Style":{"modeValue":0},"Version":{"boolValue":true}}}
+{"enabled":false,"key":0,"name":"NoFall","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":2}}}
+{"enabled":false,"key":45,"name":"ClickGUI","settings":{"Animated search":{"boolValue":false},"Color":{"modeValue":0},"Darken":{"boolValue":false},"Hide UI":{"boolValue":true},"Hide in list":{"boolValue":false},"Lowercase":{"boolValue":true},"Sounds":{"boolValue":true},"Style":{"modeValue":0},"Tooltips":{"boolValue":true}}}
+{"enabled":true,"key":0,"name":"Arraylist","settings":{"Animation":{"modeValue":0},"Bloom":{"boolValue":false},"Brightness":{"numberValue":10.0},"Categories":{"boolValue":false},"Color":{"modeValue":0},"Fancy":{"boolValue":false},"Glow":{"boolValue":false},"Hide in list":{"boolValue":false},"Offset":{"numberValue":0.0},"Position":{"modeValue":0},"PostProcessing":{"boolValue":false},"Saturation":{"numberValue":10.0},"Shadow":{"boolValue":false},"SolidWave":{"boolValue":false},"Speed":{"numberValue":3.0},"Style":{"modeValue":0},"Wave":{"boolValue":false},"WaveText":{"boolValue":false}}}
+{"enabled":true,"key":0,"name":"Step","settings":{"Amount":{"numberValue":1.5333333015441895},"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":86,"name":"Speed","settings":{"Halt":{"boolValue":true},"Height":{"numberValue":4.44444465637207},"Hide in list":{"boolValue":false},"Jump":{"modeValue":0},"Mode":{"modeValue":5},"NoStep":{"boolValue":false},"Packet":{"boolValue":false},"Randomize":{"boolValue":true},"Rotate":{"boolValue":true},"Timer boost":{"boolValue":false},"TimerBoost":{"numberValue":21.33333396911621},"Value":{"numberValue":9.11111068725586}}}
+{"enabled":false,"key":70,"name":"Longjump","settings":{"DoubleJump":{"boolValue":false},"Height":{"numberValue":0.0},"Hide in list":{"boolValue":false},"Mode":{"modeValue":0},"Slow":{"boolValue":false},"Speed":{"numberValue":8.333333015441895}}}
+{"enabled":false,"key":0,"name":"Airjump","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":71,"name":"Phase","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"Nametags","settings":{"Armor":{"boolValue":false},"Background":{"boolValue":true},"Distance":{"boolValue":true},"Fancy":{"boolValue":false},"Health":{"boolValue":false},"Hide in list":{"boolValue":false},"Scale":{"numberValue":4.0},"Self":{"boolValue":true},"Static":{"boolValue":false},"Visibility":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"Nuker","settings":{"Distance":{"numberValue":5.0},"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"NoSwing","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":86,"name":"Sprint","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":true,"key":0,"name":"Velocity","settings":{"Hide in list":{"boolValue":false},"Horizontal":{"numberValue":50.0},"Mode":{"modeValue":0},"Vertical":{"numberValue":50.0}}}
+{"enabled":false,"key":0,"name":"RapidHit","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":true,"key":0,"name":"AntiImmobile","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"Derp","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":71,"name":"Fly","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0},"Timer boost":{"boolValue":false},"TimerBoost":{"numberValue":16.0},"Value":{"numberValue":8.88888931274414}}}
+{"enabled":false,"key":78,"name":"Scaffold","settings":{"BlocksLeft":{"boolValue":true},"Distance":{"numberValue":6.888888835906982},"Extend":{"boolValue":false},"ExtendVal":{"numberValue":1.0},"Hide in list":{"boolValue":false},"Keep Y":{"boolValue":true},"NoSwing":{"boolValue":true},"Places":{"numberValue":3.200000047683716},"Priority":{"modeValue":1},"Rots":{"modeValue":2},"Switch":{"modeValue":1},"Timer boost":{"boolValue":false},"TimerBoost":{"numberValue":18.66666603088379},"Tower":{"modeValue":2}}}
+{"enabled":true,"key":0,"name":"Instabreak","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":3}}}
+{"enabled":false,"key":82,"name":"Aura","settings":{"APS Max":{"numberValue":14.222222328186035},"APS Min":{"numberValue":12.222222328186035},"AutoSword":{"modeValue":0},"DynamicRange":{"boolValue":false},"FOV":{"numberValue":360.0},"Hide in list":{"boolValue":false},"Hurttime":{"boolValue":false},"IgnoreDelay":{"boolValue":false},"Mode":{"modeValue":2},"Projectiles":{"modeValue":0},"Randomization":{"boolValue":false},"Range":{"numberValue":4.0},"Raytrace":{"boolValue":false},"ServerRot":{"boolValue":true},"Strafe":{"boolValue":true}}}
+{"enabled":true,"key":0,"name":"Spider","settings":{"Hide in list":{"boolValue":false},"Speed":{"numberValue":4.222222328186035}}}
+{"enabled":false,"key":0,"name":"NoPacket","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":true,"key":0,"name":"InvMove","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"Godmode","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"Hitbox","settings":{"Height":{"numberValue":2.0},"Hide in list":{"boolValue":false},"Width":{"numberValue":2.0}}}
+{"enabled":false,"key":0,"name":"Jesus","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"Freecam","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":true,"key":0,"name":"FastStop","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"Crasher","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":true,"key":0,"name":"HitAnimations","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":true,"key":0,"name":"NoSlowdown","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":35,"name":"Uninject","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"SilentActions","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":true,"key":0,"name":"NoTileSlowdown","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"OldSwim","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"DJ","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":71,"name":"Blink","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"ReverseStep","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"LoudActions","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"AntiVoid","settings":{"Distance":{"numberValue":6.222222328186035},"Hide in list":{"boolValue":false},"Mode":{"modeValue":0},"ScaffoldEnable":{"boolValue":false},"SpeedDisable":{"boolValue":true},"TPOnce":{"boolValue":true},"VoidCheck":{"boolValue":true}}}
+{"enabled":false,"key":0,"name":"FastLadder","settings":{"Hide in list":{"boolValue":false},"Speed":{"numberValue":5.0}}}
+{"enabled":false,"key":70,"name":"Airwalk","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"Airswim","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"StorageAura","settings":{"Distance":{"numberValue":5.0},"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":true,"key":0,"name":"ESP","settings":{"Containers":{"boolValue":false},"Fill":{"boolValue":false},"Health":{"boolValue":false},"Hide in list":{"boolValue":false},"Items":{"boolValue":false},"Outline":{"boolValue":false},"RGB":{"boolValue":false},"Self":{"boolValue":false},"Style":{"modeValue":1},"Width":{"numberValue":6.0}}}
+{"enabled":false,"key":0,"name":"TimeModifier","settings":{"Hide in list":{"boolValue":false},"Time":{"numberValue":15000.0}}}
+{"enabled":false,"key":0,"name":"ToggleSounds","settings":{"Hide in list":{"boolValue":false},"Sound":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"Notifications","settings":{"Hide in list":{"boolValue":false},"Style":{"modeValue":0}}}
+{"enabled":false,"key":77,"name":"Breaker","settings":{"Destroy":{"boolValue":false},"Distance":{"numberValue":5.0},"Hide in list":{"boolValue":false},"Mode":{"modeValue":3}}}
+{"enabled":false,"key":0,"name":"AutoFarm","settings":{"Distance":{"numberValue":5.0},"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":76,"name":"Regen","settings":{"Distance":{"numberValue":6.066666603088379},"Hide in list":{"boolValue":false},"Max":{"numberValue":3.066666603088379},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"NoLagback","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":true,"key":0,"name":"ChestStealer","settings":{"Delay":{"numberValue":250.0},"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":true,"key":0,"name":"AutoArmor","settings":{"Drop":{"boolValue":true},"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"StreamerMode","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":true,"key":0,"name":"NoBackground","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"SoundPlayer","settings":{"Always":{"boolValue":false},"Hide in list":{"boolValue":false},"Randomize":{"boolValue":false},"Sound":{"numberValue":1.0},"Type":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"HitSounds","settings":{"Hide in list":{"boolValue":false},"Sound":{"modeValue":0}}}
+{"enabled":true,"key":0,"name":"BuildReach","settings":{"Amount":{"numberValue":6.666666507720947},"Hide in list":{"boolValue":false},"Mode":{"modeValue":1}}}
+{"enabled":false,"key":0,"name":"Highjump","settings":{"Amount":{"numberValue":10.0},"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":true,"key":0,"name":"InventoryCleaner","settings":{"Drop TNT":{"boolValue":true},"Drop armor":{"boolValue":true},"Drop blocks":{"boolValue":false},"Drop bows":{"boolValue":true},"Drop compass":{"boolValue":false},"Drop food":{"boolValue":true},"Drop swords":{"boolValue":true},"Drop tools":{"boolValue":false},"Equip armor":{"boolValue":false},"Hide in list":{"boolValue":false},"Mode":{"modeValue":0},"NoSwing":{"boolValue":true},"Sort hotbar":{"boolValue":true},"Stacks to keep":{"numberValue":4.0}}}
+{"enabled":false,"key":0,"name":"Triggerbot","settings":{"APS Max":{"numberValue":12.0},"APS Min":{"numberValue":10.0},"Hide in list":{"boolValue":false},"Hurttime":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"Friends","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"Parkour","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"Keystrokes","settings":{"Hide in list":{"boolValue":false},"Offset":{"numberValue":0.0},"Style":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"Radar","settings":{"Hide in list":{"boolValue":false},"Rainbow":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"XRay","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"Zoom","settings":{"Hide in list":{"boolValue":false},"Reverse":{"boolValue":false},"Zoom":{"numberValue":65.36666870117188}}}
+{"enabled":false,"key":0,"name":"RainbowSky","settings":{"Brightness":{"numberValue":10.0},"Hide in list":{"boolValue":false},"Saturation":{"numberValue":4.0},"Speed":{"numberValue":5.222222328186035}}}
+{"enabled":false,"key":0,"name":"Nightmode","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"ArmorHUD","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":true,"key":0,"name":"Killsults","settings":{"AutoGG":{"boolValue":false},"Format":{"modeValue":0},"Hide in list":{"boolValue":false},"Killcount":{"boolValue":false},"Mention":{"boolValue":true},"Mode":{"modeValue":4},"Server":{"modeValue":0},"Sound":{"modeValue":0}}}
+{"enabled":true,"key":0,"name":"Teams","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"AutoClicker","settings":{"CPS Max":{"numberValue":12.0},"CPS Min":{"numberValue":10.0},"Hide in list":{"boolValue":false},"Left":{"boolValue":true},"Mining":{"boolValue":false},"Right":{"boolValue":false}}}
+{"enabled":true,"key":0,"name":"SmallItems","settings":{"Hide in list":{"boolValue":false},"Old":{"boolValue":true}}}
+{"enabled":true,"key":0,"name":"FakeBlocking","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":true,"key":0,"name":"NoItemBob","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"LevelInfo","settings":{"BPS":{"boolValue":true},"Hide in list":{"boolValue":false},"Position":{"boolValue":true},"RGB":{"boolValue":true},"Server":{"boolValue":true}}}
+{"enabled":false,"key":0,"name":"EditionFaker","settings":{"Edition":{"modeValue":1},"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"HackerDetect","settings":{"BadPacketsA":{"boolValue":true},"BadPacketsB":{"boolValue":true},"BadPacketsC":{"boolValue":true},"BadPacketsE":{"boolValue":true},"CollisionA":{"boolValue":true},"FlyA":{"boolValue":true},"FlyB":{"boolValue":true},"Hide in list":{"boolValue":false},"Ignore friends":{"boolValue":true},"SpeedA":{"boolValue":true}}}
+{"enabled":false,"key":0,"name":"NoShadows","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"Matrix","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"ArrayFix","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":true,"key":0,"name":"HealthAlert","settings":{"Health":{"numberValue":5.0},"Hide in list":{"boolValue":false},"Sound":{"boolValue":true}}}
+{"enabled":false,"key":0,"name":"HungerSpoof","settings":{"Hide in list":{"boolValue":false},"Hunger":{"numberValue":19.0}}}
+{"enabled":false,"key":0,"name":"PacketLogger","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":true,"key":0,"name":"Disabler","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":true,"key":0,"name":"InvFix","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"NonSolidWalk","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"InfiniteAura","settings":{"APS Max":{"numberValue":8.0},"APS Min":{"numberValue":7.0},"Hide in list":{"boolValue":false},"Hurttime":{"boolValue":false},"IgnoreDelay":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"AnchorAura","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"Spammer","settings":{"Delay":{"numberValue":1166.6666259765625},"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"ProtocolSpoof","settings":{"Hide in list":{"boolValue":false},"Ver":{"modeValue":45}}}
+{"enabled":false,"key":36,"name":"ConfigManager","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"AutoLootbox","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"NoCameraClip","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"Extinguisher","settings":{"Distance":{"numberValue":5.133333206176758},"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"InteractSpam","settings":{"Distance":{"numberValue":5.0},"Hide in list":{"boolValue":false},"Multiplier":{"numberValue":4.0}}}
+{"enabled":false,"key":0,"name":"Jetpack","settings":{"Hide in list":{"boolValue":false},"Speed":{"numberValue":5.0}}}
+{"enabled":false,"key":0,"name":"AutoSpellbook","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":true,"key":0,"name":"AutoMidTP","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"AntiAura","settings":{"Distance":{"numberValue":5.0},"Hide in list":{"boolValue":false},"KeepY":{"boolValue":false},"OnHurt":{"boolValue":false},"Randomization":{"numberValue":5.0},"Range":{"numberValue":6.0}}}
+{"enabled":true,"key":0,"name":"Fullbright","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"NoRender","settings":{"BlockEntities":{"boolValue":false},"Entities":{"boolValue":false},"HUD":{"boolValue":false},"Hide in list":{"boolValue":false},"Particles":{"boolValue":false},"Sky":{"boolValue":false},"Terrain":{"boolValue":false},"Viewmodel":{"boolValue":false},"Weather":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"ChunkBorders","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"AutoPot","settings":{"Healing":{"boolValue":true},"Health":{"numberValue":10.0},"Hide in list":{"boolValue":false},"Invisibility":{"boolValue":true},"Mode":{"modeValue":0},"Regeneration":{"boolValue":true},"Speed":{"boolValue":true},"Throw":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"StackableItems","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"FoodSpammer","settings":{"Hide in list":{"boolValue":false}}}
+{"enabled":false,"key":0,"name":"AutoQueue","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":false,"key":0,"name":"ServerSneak","settings":{"Hide in list":{"boolValue":false},"Mode":{"modeValue":0}}}
+{"enabled":true,"key":0,"name":"TargetHUD","settings":{"Hide in list":{"boolValue":false},"Style":{"modeValue":0}}}
+{"enabled":false,"key":67,"name":"Timer","settings":{"Hide in list":{"boolValue":false},"Speed":{"numberValue":2.6666667461395264}}}
